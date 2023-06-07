@@ -25,4 +25,4 @@ Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi de�
 
 # Liscense
 ----------------
-**MIT
+MIT
